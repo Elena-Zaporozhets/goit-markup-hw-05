@@ -493,10 +493,6 @@ margin: 0 auto;
         gap: 24px;
     }
 
-   
-.footer-group {display: flex;
-gap: 24px;
-}
     
     .footer-form-input {
         border: 1px solid #fff;
@@ -638,7 +634,7 @@ transform: translate(-50%, -100%);
 .modal-text {display: flex;
     justify-content: center;
     align-items: center;
-    padding-bottom: 16px;
+    margin-bottom: 16px;
     font-weight: 500;
         font-size: 16px;
     
@@ -660,6 +656,7 @@ transform: translate(-50%, -100%);
     display: block;
     padding-right: 24px;
     padding-left: 24px;
+    margin-bottom: 8px;
 }
 
 .modal-label {display: block;
@@ -713,6 +710,7 @@ transform: translate(-50%, -100%);
     padding-right: 24px;
         padding-left: 24px;
         margin-bottom: 16px;
+        width: 100%;
 }
 
 .user-comment {
