@@ -705,6 +705,7 @@ transform: translate(-50%, -100%);
 
 .modal-textarea {
     display: block;
+    margin-bottom: 16px;
 }
 
 .user-comment {
